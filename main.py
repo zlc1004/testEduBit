@@ -1,0 +1,1 @@
+edubitRgbBit.show_rainbow()
